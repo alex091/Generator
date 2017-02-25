@@ -1,1 +1,1 @@
-# Generator
+Generator of db tables from config file.
